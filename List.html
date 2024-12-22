@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>List And Nested-List</title>
+    <style>
+      .continer {
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="continer">
+      <div class="box-1">
+        <ul>
+          <li>Apple</li>
+          <li>Banana</li>
+          <li>Graps</li>
+          <li>Gavava</li>
+        </ul>
+      </div>
+      <div class="box-1">
+        <ol>
+          <li>Apple</li>
+          <li>Banana</li>
+          <li>Graps</li>
+          <li>Gavava</li>
+        </ol>
+      </div>
+      <div class="box-1">
+        <ul type="none">
+          <li>
+            Apple
+            <ul type="">
+              Apple is Helthy Fruit
+            </ul>
+          </li>
+          <li>
+            Banana
+            <ul type="">
+              Banana is Helthy Fruit
+            </ul>
+          </li>
+          <li>
+            Graps
+            <ul type="">
+              Graps is Helthy Fruit
+            </ul>
+          </li>
+          <li>
+            Gavava
+            <ul type="">
+              Gavava is Helthy Fruit
+            </ul>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </body>
+</html>
