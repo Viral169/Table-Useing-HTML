@@ -1,3 +1,6 @@
-https://viral169.github.io/Table-Useing-HTML/
 ![screencapture-127-0-0-1-5500-index-html-2024-12-28-17_18_44](https://github.com/user-attachments/assets/27e0563e-d53e-4a89-8aa9-7ba21183ec7e)
-
+![screencapture-127-0-0-1-5500-List-html-2024-12-28-17_19_01](https://github.com/user-attachments/assets/21c069c0-a66f-43da-825f-7d4ed0e1b6f0)
+![screencapture-127-0-0-1-5500-Static-web-UI-useing-div-html-2024-12-29-11_27_46](https://github.com/user-attachments/assets/7610076a-1d31-45c0-be43-f365109e5b45)
+![screencapture-127-0-0-1-5500-Static-web-UI-useing-Semantic-html-2024-12-29-11_58_03](https://github.com/user-attachments/assets/32a8fa6e-b222-40ff-b0ed-2ebc1abd63a8)
+![screencapture-127-0-0-1-5500-Time-table-html-2024-12-29-11_26_22](https://github.com/user-attachments/assets/57d17a24-ee25-405c-8b28-88d9679f97c3)
+![screencapture-127-0-0-1-5500-Table-html-2024-12-29-11_25_51](https://github.com/user-attachments/assets/590a053a-7d37-43db-b774-57828e6a70c0)
